@@ -19,7 +19,7 @@ Social Media Analysis for Public Health: I analyze large-scale, multimodal data 
 Speech and Language for Clinical Informatics: I develop and apply computational methods to analyze speech patterns, aiming to identify linguistic biomarkers for the early detection of neurodegenerative diseases like Alzheimer's.
 
 
-AWARDS AND SCHOLARSHIPS
+Selected Awards
 ======
 
 National Third Prize, The 5th Communication Data Mining Competition 2023
