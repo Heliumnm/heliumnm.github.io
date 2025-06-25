@@ -1,11 +1,10 @@
-
-
 ---
 layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+
 
 ---
 title: "Teaching Assistant, Speech Analysis" 
