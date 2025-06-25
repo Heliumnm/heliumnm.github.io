@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant, Speech Analysis" 
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Graduate course"
+permalink: /teaching/2024-fall-teaching-1
+venue: "University of Science and Technology of China"
+date: 2024-09-01
+location: "Hefei, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+[cite_start]Served as a Teaching Assistant for the Fall 2024 Speech Analysis course, instructed by Prof. Jiahong Yuan and Prof. Qing Wang.
 
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-======
