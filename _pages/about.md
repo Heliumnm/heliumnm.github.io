@@ -23,9 +23,11 @@ Selected Awards
 ======
 
 National Third Prize, The 5th Communication Data Mining Competition 2023
+
 Excellent Academic Scholarship, Graduate School, USTC 2023
 
 Professional Activities
 ======
-Conference Reviewer for ICWSM.
+Conference Reviewer for ICWSM
+
 Volunteer for International Communication Association (ICA) Regional Hub at Hefei, China
