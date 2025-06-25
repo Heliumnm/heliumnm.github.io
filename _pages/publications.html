@@ -13,30 +13,10 @@ Here is my [Google Scholar Page](https://scholar.google.com/citations?hl=en&user
 
 2025
 ------
-- Zhu, M.*, * *He, L.* **, Zhao, H., Su, R., Zhang, L., & Hu, B. Same Vaccine, ***Different Voices: A Cross-Modality Analysis of HPV Vaccine Discourse on Social Media***. Proceedings of the International AAAI Conference on Web and Social Media 19.1 (2025): 2317-2333. [link](https://ojs.aaai.org/index.php/ICWSM/article/view/35936) [Homepage](https://heliumnm.github.io/same-vaccine-diff-voices/)
-
-{% include base_path %}
-
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+- Zhu, M.*, ** *He, L.* **, Zhao, H., Su, R., Zhang, L., & Hu, B. Same Vaccine, ***Different Voices: A Cross-Modality Analysis of HPV Vaccine Discourse on Social Media***. Proceedings of the International AAAI Conference on Web and Social Media 19.1 (2025): 2317-2333. [link](https://ojs.aaai.org/index.php/ICWSM/article/view/35936) [Homepage](https://heliumnm.github.io/same-vaccine-diff-voices/)
+- Yin-Long Liu, Yuanchao Li, Rui Feng, **Liu He**, Jia-Xin Chen, Yi-Ming Wang, Yu-Ang Chen, Yan-Han Peng, Jia-Hong Yuan, and Zhen-Hua Ling. ***Leveraging Cascaded Binary Classification and Multimodal Fusion for Dementia Detection through Spontaneous Speech***. Interspeech 2025
 
 
-
+Preprints
+------
+- Liu He, Yuanchao Li, Rui Feng,... Jiahong Yuan. Exploring Gender Bias in Alzheimer's Disease Detection: Insights from Mandarin and Greek Speech Perception. .
