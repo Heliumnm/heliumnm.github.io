@@ -1,20 +1,15 @@
+
+
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant, Health Communication"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Graduate course"
+permalink: /teaching/2022-fall-teaching-1
+venue: "University of Science and Technology of China"
+date: 2022-09-01
+location: "Hefei, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+[cite_start]Served as a Teaching Assistant for the Fall 2022 Health Communication course, instructed by Prof. Meiting Qin.
 
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-======
