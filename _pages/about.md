@@ -14,7 +14,7 @@ I am a master student in the [University of Science and Technology of China](htt
 Research Interests
 ======
 
-Social Media Analysis for Public Health: I analyze large-scale, multimodal data (text, audio, video) from social media to understand public discourse on critical health topics, such as vaccine hesitancy.
+Social Media Analysis for Public Health: I analyze large-scale, multimodal data (text, audio, video) from social media to understand public discourse on critical health topics, such as HPV vaccine.
 
 Speech and Language for Clinical Informatics: I develop and apply computational methods to analyze speech patterns, aiming to identify linguistic biomarkers for the early detection of neurodegenerative diseases like Alzheimer's.
 
