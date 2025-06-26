@@ -16,4 +16,4 @@ Here is my [Google Scholar Page](https://scholar.google.com/citations?hl=en&user
 
 - **Liu He**, Yuanchao Li, Rui Feng,... Jiahong Yuan. ***Exploring Gender Bias in Alzheimer's Disease Detection: Insights from Mandarin and Greek Speech Perception***. To be submitted to ICASSP 2026. 
  
-* denotes equal contribution
+ \* denotes equal contribution
