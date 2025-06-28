@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master's student in the [University of Science and Technology of China](https://en.ustc.edu.cn)(USTC), advised by Prof. [Mengxiao Zhu](https://sites.google.com/site/mengxiaozhu/home?authuser=0)  and Prof. [Jiahong Yuan](https://scholar.google.com/citations?user=jbbXJOkAAAAJ&hl=en). I expect to graduate in June 2025.  I received my B.E. in Materials Science & Engineering from the Harbin Institute of Technology (HIT). My primary research interests are in *Computational Social Science and Social NLP*.  I leverage large-scale data analysis and artificial intelligence to understand complex social phenomena and human behavior.
+I am a Master's student in the [University of Science and Technology of China](https://en.ustc.edu.cn)(USTC), advised by Prof. [Mengxiao Zhu](https://sites.google.com/site/mengxiaozhu/home?authuser=0)  and Prof. [Jiahong Yuan](https://scholar.google.com/citations?user=jbbXJOkAAAAJ&hl=en). I expect to graduate in June 2025.  I received my B.E. in Materials Science & Engineering from the [Harbin Institute of Technology](https://en.hit.edu.cn) (HIT). My primary research interests are in *Computational Social Science and Social NLP*.  I leverage large-scale data analysis and artificial intelligence to understand complex social phenomena and human behavior.
 
 I am actively seeking PhD opportunities for Fall 2026 in Computational Social Science and Social NLP.
 
