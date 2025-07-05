@@ -38,9 +38,9 @@ author_profile: true
       <img src="{{ site.baseurl }}/images/project-b.png" alt="项目B的图片">
     </div>
     <div class="archive__item-body">
-      <h2 class="archive__item-title">项目B的标题 (Project Title B)</h2>
+      <h2 class="archive__item-title">Multimodal Communication of HPV Vaccine on Social Media</h2>
       <div class="archive__item-excerpt">
-        <p>这里是项目B的详细描述。继续介绍这个项目的具体情况。这段描述可以长一些，排版会自动适应。</p>
+        <p>This was a large-scale research project that performed a cross-modality analysis of HPV vaccine discourse on social media. The study involved collecting and analyzing over 1.5TB of data, including texts, audios, and videos from major platforms like Weibo, Douyin, and Bilibili, spanning a decade from 2010 to 2023. The goal was to understand how the same vaccine was discussed differently across various media formats.</p>
         <p><strong>技术栈</strong>: Python, PyTorch, etc.</p>
       </div>
       <p><a href="[这里放项目链接]" class="btn btn--primary">项目主页</a></p>
