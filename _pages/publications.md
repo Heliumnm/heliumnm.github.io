@@ -17,6 +17,7 @@ Here is my [Google Scholar Page](https://scholar.google.com/citations?hl=en&user
 
 - Yin-Long Liu, Yuanchao Li, Rui Feng, **Liu He**, Jia-Xin Chen, Yi-Ming Wang, Yu-Ang Chen, Yan-Han Peng, Jia-Hong Yuan, and Zhen-Hua Ling. ***Leveraging Cascaded Binary Classification and Multimodal Fusion for Dementia Detection through Spontaneous Speech***. Interspeech 2025
 
-- **Liu He**, Yuanchao Li, Rui Feng,... Jiahong Yuan. ***Exploring Gender Bias in Alzheimer's Disease Detection: Insights from Mandarin and Greek Speech Perception***. To be submitted to ICASSP 2026. 
+- **Liu He**, Yuanchao Li, Rui Feng, XinRan Han, Yin-Long Liu, Yuwei Yang, Zude Zhu and Jiahong Yuan. ***Exploring Gender Bias in Alzheimer's Disease Detection: Insights from Mandarin and Greek Speech Perception***. [arXiv](https://arxiv.org/abs/2507.12356) 
+
  
  \* denotes equal contribution
