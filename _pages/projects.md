@@ -48,7 +48,7 @@ guistic, Patholinguistic, and Artificial Intelligence Perspectives. ational Soci
       <img src="{{ site.baseurl }}/images/project-c.gif" alt="项目C的图片">
     </div>
     <div class="archive__item-body">
-      <h2 class="archive__item-title">项目C的标题 (Project Title C)</h2>
+      <h2 class="archive__item-title">Misinformation Spreading on Social Media</h2>
       <div class="archive__item-excerpt">
         <p>这里是项目C的详细描述。你可以自由发挥。</p>
       </div>
