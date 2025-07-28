@@ -5,8 +5,6 @@ permalink: /projects/
 author_profile: true
 ---
 
-在这里可以写一段关于你项目经历的总体介绍。例如，你主要关注哪些领域的研究项目，使用了哪些技术等等。
-
 ---
 
 <div class="feature__wrapper">
