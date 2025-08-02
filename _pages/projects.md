@@ -17,8 +17,7 @@ author_profile: true
     <div class="archive__item-body">
       <h2 class="archive__item-title">Language Biomarkers of Alzheimer’s Disease Based on Linguistic Variation from Sociolinguistic, Patholinguistic, and Artificial Intelligence Perspectives. National Social Science Fund Project (23YYA01185)</h2> 
       <div class="archive__item-excerpt">
-        <p>这里是项目A的详细描述。你可以介绍这个项目的背景、目标、你使用的研究方法或技术栈。你也可以在这里列出你的主要贡献。</p>
-        <p><strong>我的贡献</strong>: 解决了...问题, 实现了...功能, etc.</p>
+        
       </div>
       <p><a href="[这里放项目链接，比如GitHub]" class="btn btn--primary">了解更多</a></p>
     </div>
