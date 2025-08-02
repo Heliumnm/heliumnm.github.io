@@ -33,7 +33,7 @@ author_profile: true
       <h2 class="archive__item-title">Multimodal Communication of HPV Vaccine on Social Media</h2>
       <div class="archive__item-excerpt">
         <p>This was a large-scale research project that performed a cross-modality analysis of HPV vaccine discourse on social media. The study involved collecting and analyzing over 1.5TB of data, including texts, audios, and videos from major platforms like Weibo, Douyin, and Bilibili, spanning a decade from 2010 to 2023. The goal was to understand how the same vaccine was discussed differently across various media formats.</p>
-        <p><strong>技术栈</strong>: Python, PyTorch, etc.</p>
+        <p><strong>Project homepage</strong>: Python, PyTorch, etc.</p>
       </div>
       <p><a href="[这里放项目链接]" class="btn btn--primary">项目主页</a></p>
     </div>
