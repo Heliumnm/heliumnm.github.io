@@ -25,8 +25,8 @@ author_profile: true
 </div>
 <div class="feature__item--left">
   <div class="archive__item">
-    <div class="archive__item-teaser">
-      <img src="{{ site.baseurl }}/images/project-b.png" alt="项目B的图片">
+    <div class="archive__item-teaser"> 
+      <img src="{{ site.baseurl }}/images/project-b.png" alt="Social media platform">
     </div>
     <div class="archive__item-body">
       <h2 class="archive__item-title">Multimodal Communication of HPV Vaccine on Social Media</h2>
