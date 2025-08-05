@@ -46,9 +46,8 @@ This was a large-scale research project that performed a cross-modality analysis
 Misinformation Spreading on Social Media
 ------
 
-Advisors: [Dr.Yongdong Zhang](https://openreview.net/profile?id=~Yongdong_Zhang2)(Professor, School of Information Science and Technology, USTC) (PI) and Dr. Mengxiao Zhu (co-PI)
+Advisors: [Dr.Yongdong Zhang](https://openreview.net/profile?id=~Yongdong_Zhang2)(Professor, School of Information Science and Technology, USTC) (PI) and [Dr. Mengxiao Zhu](https://sites.google.com/site/mengxiaozhu/)(co-PI)
 
-\href{http://imcc.ustc.edu.cn/_upload/tpl/0d/13/3347/template3347/zhangyongdong.html}{Dr.Yongdong Zhang} (PI) and \href{https://sites.google.com/site/mengxiaozhu/}{Dr. Mengxiao Zhu}  (co-PI)
 
 • Analyzed 110,000 Weibo posts using LDA topic model
 • Analyzed large-scale social media user behavioral data
