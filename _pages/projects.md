@@ -14,18 +14,22 @@ Advisors: [Dr. Jiahong Yuan (PI)](https://scholar.google.com/citations?user=jbbX
 [Collected Data System](https://www.ustcphonetics.cloud/main)
 
 
-
-
 - **Liu He**, Yuanchao Li, Rui Feng, XinRan Han, Yin-Long Liu, Yuwei Yang, Zude Zhu and Jiahong Yuan. ***Exploring Gender Bias in Alzheimer's Disease Detection: Insights from Mandarin and Greek Speech Perception***. Submitted to the 2025 National Conference on Man-Machine Speech Communication (NCMMSC)  [arXiv](https://arxiv.org/abs/2507.12356) 
 
 - Yin-Long Liu, Yuanchao Li, Rui Feng, **Liu He**, Jia-Xin Chen, Yi-Ming Wang, Yu-Ang Chen, Yan-Han Peng, Jia-Hong Yuan, and Zhen-Hua Ling. ***Leveraging Cascaded Binary Classification and Multimodal Fusion for Dementia Detection through Spontaneous Speech***. Interspeech 2025
+
+
+. 
+------
+
+
 
 
 
 Multimodal Communication of HPV Vaccine on Social Media
 ------
 
-Advisors: [Dr. Mengxiao Zhu](https://sites.google.com/site/mengxiaozhu/)(Professor, USTC) , [Dr. Cuihua Shen](https://communication.ucdavis.edu/people/cuihua-shen)(Professor, UC Davis), [Dr. Zhengdong Mao](https://faculty.ustc.edu.cn/maozhendong/zh_CN/index.htm)(Professor, USTC) 
+Advisors: [Dr. Mengxiao Zhu](https://sites.google.com/site/mengxiaozhu/)(Professor, USTC) , [Dr. Cuihua Shen](https://communication.ucdavis.edu/people/cuihua-shen)(Professor, UC Davis), [Dr. Zhengdong Mao](https://faculty.ustc.edu.cn/maozhendong/zh_CN/index.htm)(Professor, School of Information Science and Technology, USTC) 
 
 
 This was a large-scale research project that performed a cross-modality analysis of HPV vaccine discourse on social media. The study involved collecting and analyzing over 1.5TB of data, including texts, audios, and videos from major platforms like Weibo, Douyin, and Bilibili, spanning a decade from 2010 to 2023. The goal was to understand how the same vaccine was discussed differently across various media formats.
@@ -42,7 +46,7 @@ This was a large-scale research project that performed a cross-modality analysis
 Misinformation Spreading on Social Media
 ------
 
-Advisors: Dr.Yongdong Zhang (PI) and Dr. Mengxiao Zhu (co-PI)
+Advisors: [Dr.Yongdong Zhang](Professor, School of Information Science and Technology, USTC) (PI) and Dr. Mengxiao Zhu (co-PI)
 
 \href{http://imcc.ustc.edu.cn/_upload/tpl/0d/13/3347/template3347/zhangyongdong.html}{Dr.Yongdong Zhang} (PI) and \href{https://sites.google.com/site/mengxiaozhu/}{Dr. Mengxiao Zhu}  (co-PI)
 
