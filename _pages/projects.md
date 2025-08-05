@@ -42,7 +42,6 @@ author_profile: true
 <div class="feature__item--right">
   <div class="archive__item">
     <div class="archive__item-teaser">
-      <img src="{{ site.baseurl }}/images/project-c.gif" alt="项目C的图片">
     </div>
     <div class="archive__item-body">
       <h2 class="archive__item-title">Misinformation Spreading on Social Media</h2>
