@@ -48,6 +48,6 @@ Misinformation Spreading on Social Media
 
 Advisors: [Dr.Yongdong Zhang](https://openreview.net/profile?id=~Yongdong_Zhang2)(Professor, School of Information Science and Technology, USTC) (PI) and [Dr. Mengxiao Zhu](https://sites.google.com/site/mengxiaozhu/)(co-PI)
 
--  • Analyzed 110,000 Weibo posts using LDA topic model
--  • Analyzed large-scale social media user behavioral data
--  • Composed research reports of over 30,000 words
+-  Analyzed 110,000 Weibo posts using LDA topic model
+-  Analyzed large-scale social media user behavioral data
+-  Composed research reports of over 30,000 words
