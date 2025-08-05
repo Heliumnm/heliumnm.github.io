@@ -9,7 +9,7 @@ author_profile: true
 Biomarkers of Alzheimer’s Disease Based on Linguistic Variation from Sociolinguistic, Patholinguistic, and Artificial Intelligence Perspectives. National Social Science Fund Project (23YYA01185)
 ------
 
-Advisors: [Dr. Jiahong Yuan (PI)](https://scholar.google.com/citations?user=jbbXJOkAAAAJ&hl=en), Dr. Yizhe Wang, [Dr. Yiya Chen (Visiting Professor Fall 2024, Leiden University, Member of Academia Europaea)](https://www.ae-info.org/ae/Member/Chen_Yiya)
+Advisors: [Dr. Jiahong Yuan (PI)](https://scholar.google.com/citations?user=jbbXJOkAAAAJ&hl=en), Dr. Yizhe Wang, [Dr. Yiya Chen](https://www.ae-info.org/ae/Member/Chen_Yiya) (Visiting Professor Fall 2024, Leiden University, Member of Academia Europaea)(https://www.ae-info.org/ae/Member/Chen_Yiya)
 
 [Collected Data System](https://www.ustcphonetics.cloud/main)
 
