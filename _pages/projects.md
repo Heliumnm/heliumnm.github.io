@@ -12,7 +12,6 @@ author_profile: true
 <div class="feature__item--right">
   <div class="archive__item">
     <div class="archive__item-teaser">
-      <img src="{{ site.baseurl }}/images/OldCookieTheft.png" alt="CookieTheft">
     </div>
     <div class="archive__item-body">
       <h2 class="archive__item-title">Language Biomarkers of Alzheimer’s Disease Based on Linguistic Variation from Sociolinguistic, Patholinguistic, and Artificial Intelligence Perspectives. National Social Science Fund Project (23YYA01185)</h2>  
@@ -26,7 +25,6 @@ author_profile: true
 <div class="feature__item--left">
   <div class="archive__item">
     <div class="archive__item-teaser"> 
-      <img src="{{ site.baseurl }}/images/project-b.png" alt="Social media platform">
     </div>
     <div class="archive__item-body">
       <h2 class="archive__item-title">Multimodal Communication of HPV Vaccine on Social Media</h2>
@@ -37,7 +35,7 @@ author_profile: true
       </div>
       <p><a href="https://heliumnm.github.io/same-vaccine-diff-voices/" class="btn btn--primary">Project homepage</a></p>
     </div>
-  </div>
+  </div> 
 </div>
 <div class="feature__item--right">
   <div class="archive__item">
