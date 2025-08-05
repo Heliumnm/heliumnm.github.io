@@ -23,7 +23,7 @@ Advisors: [Dr. Jiahong Yuan (PI)](https://scholar.google.com/citations?user=jbbX
 AI-Powered Cognitive Impairment Screening via Speech and Language Analysis. Applied Research & System Development
 ------
 
-Collected with iFlytek, BUPT Digital Intelligence (Beidian Shuzhi), and Beijing Tiantan Hospital
+Collected with iFlytek, BUPT Digital Intelligence (Beidian Shuzhi), and Beijing Tiantan Hospital (Ranked #1 in Neurology in China)
 
 
 
