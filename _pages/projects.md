@@ -46,9 +46,9 @@ author_profile: true
     <div class="archive__item-body">
       <h2 class="archive__item-title">Misinformation Spreading on Social Media</h2>
       <div class="archive__item-excerpt">
-        <p>这里是项目C的详细描述。你可以自由发挥。</p>
+        <p> Analyzed large-scale social media user behavioral data </p>
       </div>
-      <p><a href="[这里放项目链接]" class="btn btn--primary">相关论文</a></p>
+      <p></p>
     </div>
   </div>
 </div>
