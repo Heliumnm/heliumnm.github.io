@@ -4,7 +4,7 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
-
+ 
 
 Biomarkers of Alzheimer’s Disease Based on Linguistic Variation from Sociolinguistic, Patholinguistic, and Artificial Intelligence Perspectives. National Social Science Fund Project (23YYA01185)
 ------
