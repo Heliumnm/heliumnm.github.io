@@ -15,7 +15,7 @@ author_profile: true
       <img src="{{ site.baseurl }}/images/OldCookieTheft.png" alt="CookieTheft">
     </div>
     <div class="archive__item-body">
-      <h2 class="archive__item-title">Language Biomarkers of Alzheimer’s Disease Based on Linguistic Variation from Sociolinguistic, Patholinguistic, and Artificial Intelligence Perspectives. National Social Science Fund Project (23YYA01185)</h2> 
+      <h2 class="archive__item-title">Language Biomarkers of Alzheimer’s Disease Based on Linguistic Variation from Sociolinguistic, Patholinguistic, and Artificial Intelligence Perspectives. National Social Science Fund Project (23YYA01185)</h2>  
       <div class="archive__item-excerpt">
         
       </div>
