@@ -12,7 +12,7 @@ author_profile: true
 <div class="feature__item--right">
   <div class="archive__item">
     <div class="archive__item-teaser">
-      <img src="{{ site.baseurl }}/images/project-a.jpg" alt="项目A的图片">
+      <img src="{{ site.baseurl }}/images/OldCookieTheft.png" alt="CookieTheft">
     </div>
     <div class="archive__item-body">
       <h2 class="archive__item-title">Language Biomarkers of Alzheimer’s Disease Based on Linguistic Variation from Sociolinguistic, Patholinguistic, and Artificial Intelligence Perspectives. National Social Science Fund Project (23YYA01185)</h2> 
