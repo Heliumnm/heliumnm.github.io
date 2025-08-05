@@ -9,7 +9,7 @@ author_profile: true
 Biomarkers of Alzheimer’s Disease Based on Linguistic Variation from Sociolinguistic, Patholinguistic, and Artificial Intelligence Perspectives. National Social Science Fund Project (23YYA01185)
 ------
 
-Advisors: [Dr. Jiahong Yuan (PI)](https://scholar.google.com/citations?user=jbbXJOkAAAAJ&hl=en), Dr. Yizhe Wang, [Dr. Yiya Chen](https://www.ae-info.org/ae/Member/Chen_Yiya) (Visiting Professor Fall 2024, Leiden University, Member of Academia Europaea)
+Advisors: [Dr. Jiahong Yuan (PI)](https://scholar.google.com/citations?user=jbbXJOkAAAAJ&hl=en), Dr. Yizhe Wang, [Dr. Yiya Chen](https://www.ae-info.org/ae/Member/Chen_Yiya) (USTC Visiting Professor Fall 2024,Leiden University, Member of Academia Europaea)
 
 [Collected Data System](https://www.ustcphonetics.cloud/main)
 
@@ -25,7 +25,7 @@ Advisors: [Dr. Jiahong Yuan (PI)](https://scholar.google.com/citations?user=jbbX
 Multimodal Communication of HPV Vaccine on Social Media
 ------
 
-Advisors: \href{https://sites.google.com/site/mengxiaozhu/}{Dr. Mengxiao Zhu} , \href{https://communication.ucdavis.edu/people/cuihua-shen}{Dr. Cuihua Shen} , \href{https://faculty.ustc.edu.cn/maozhendong/zh_CN/index.htm}{Dr. Zhengdong Mao} \\
+Advisors: [Dr. Mengxiao Zhu](https://sites.google.com/site/mengxiaozhu/)(Professor, USTC) , \href{https://communication.ucdavis.edu/people/cuihua-shen}{Dr. Cuihua Shen} , \href{https://faculty.ustc.edu.cn/maozhendong/zh_CN/index.htm}{Dr. Zhengdong Mao} \\
 
 
 This was a large-scale research project that performed a cross-modality analysis of HPV vaccine discourse on social media. The study involved collecting and analyzing over 1.5TB of data, including texts, audios, and videos from major platforms like Weibo, Douyin, and Bilibili, spanning a decade from 2010 to 2023. The goal was to understand how the same vaccine was discussed differently across various media formats.
