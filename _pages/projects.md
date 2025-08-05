@@ -19,8 +19,12 @@ Advisors: [Dr. Jiahong Yuan (PI)](https://scholar.google.com/citations?user=jbbX
 - Yin-Long Liu, Yuanchao Li, Rui Feng, **Liu He**, Jia-Xin Chen, Yi-Ming Wang, Yu-Ang Chen, Yan-Han Peng, Jia-Hong Yuan, and Zhen-Hua Ling. ***Leveraging Cascaded Binary Classification and Multimodal Fusion for Dementia Detection through Spontaneous Speech***. Interspeech 2025
 
 
-. 
+
+AI-Powered Cognitive Impairment Screening via Speech and Language Analysis. Applied Research & System Development
 ------
+
+Collected with iFlytek, BUPT Digital Intelligence (Beidian Shuzhi), and Beijing Tiantan Hospital
+
 
 
 
