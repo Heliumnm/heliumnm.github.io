@@ -19,7 +19,7 @@ author_profile: true
       <div class="archive__item-excerpt">
         
       </div>
-      <p><a href="[这里放项目链接，比如GitHub]" class="btn btn--primary">了解更多</a></p>
+      <p><a href="https://www.ustcphonetics.cloud/main" class="btn btn--primary">Collected data system</a></p>
     </div>
   </div>
 </div>
@@ -34,7 +34,6 @@ author_profile: true
         <p>This was a large-scale research project that performed a cross-modality analysis of HPV vaccine discourse on social media. The study involved collecting and analyzing over 1.5TB of data, including texts, audios, and videos from major platforms like Weibo, Douyin, and Bilibili, spanning a decade from 2010 to 2023. The goal was to understand how the same vaccine was discussed differently across various media formats.</p>
 
         
-        <p><strong>Project homepage</strong>: Python, PyTorch, etc.</p>
       </div>
       <p><a href="https://heliumnm.github.io/same-vaccine-diff-voices/" class="btn btn--primary">Project homepage</a></p>
     </div>
