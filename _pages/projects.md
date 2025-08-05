@@ -25,7 +25,7 @@ Advisors: [Dr. Jiahong Yuan (PI)](https://scholar.google.com/citations?user=jbbX
 Multimodal Communication of HPV Vaccine on Social Media
 ------
 
-Advisors: [Dr. Mengxiao Zhu](https://sites.google.com/site/mengxiaozhu/)(Professor, USTC) , [Dr. Cuihua Shen](https://communication.ucdavis.edu/people/cuihua-shen)(Professor, UC Davis), [Dr. Zhengdong Mao](https://faculty.ustc.edu.cn/maozhendong/zh_CN/index.htm)(Professor, USTC) \\
+Advisors: [Dr. Mengxiao Zhu](https://sites.google.com/site/mengxiaozhu/)(Professor, USTC) , [Dr. Cuihua Shen](https://communication.ucdavis.edu/people/cuihua-shen)(Professor, UC Davis), [Dr. Zhengdong Mao](https://faculty.ustc.edu.cn/maozhendong/zh_CN/index.htm)(Professor, USTC) 
 
 
 This was a large-scale research project that performed a cross-modality analysis of HPV vaccine discourse on social media. The study involved collecting and analyzing over 1.5TB of data, including texts, audios, and videos from major platforms like Weibo, Douyin, and Bilibili, spanning a decade from 2010 to 2023. The goal was to understand how the same vaccine was discussed differently across various media formats.
