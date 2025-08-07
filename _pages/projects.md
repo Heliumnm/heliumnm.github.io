@@ -11,6 +11,8 @@ Language Biomarkers of Alzheimer’s Disease, from Sociolinguistic, Patholinguis
 
 Advisors: [Dr. Jiahong Yuan (PI)](https://scholar.google.com/citations?user=jbbXJOkAAAAJ&hl=en)(Professor, USTC), Dr. Yizhe Wang (Postdoc, USTC), [Dr. Yiya Chen](https://www.ae-info.org/ae/Member/Chen_Yiya) (Professor,Leiden University, Member of Academia Europaea), who co-advised this project during her tenure as a Visiting Professor at USTC (Fall 2024)
 
+
+
 [Collected Data System](https://www.ustcphonetics.cloud/main)
 
 
@@ -24,8 +26,7 @@ AI-Powered Cognitive Impairment Screening via Speech and Language Analysis. Appl
 ------
 In collaboration with iFlytek, BUPT Digital Intelligence (Beidian Shuzhi), and Beijing Tiantan Hospital (Ranked #1 in Neurology in China)
 
-
-
+An ongoing research project to develop a novel, non-invasive screening tool for cognitive health, aiming for dual outcomes of academic publication and commercial application. The project leverages a unique, large-scale dataset from ~4,000 individuals, featuring multimodal data including speech, text, performance on linguistic tasks, and lifestyle habits. The primary objective is to build and validate AI models to classify various types of cognitive decline (e.g., Cognitive Decline with Alzheimer's - CDA, Non-Alzheimer's - CDN, and Vascular - CDV).
 
 
 
@@ -42,7 +43,6 @@ This was a large-scale research project that performed a cross-modality analysis
   Accepted as an **Oral Presentation** in the Jan 2025 submission cycle (**8% acceptance rate**) and praised by the Senior Program Committee (SPC) for a "clear accept" after a highly rigorous review.
 
  \* denotes equal contribution
-
 
 
  
