@@ -11,14 +11,13 @@ Language Biomarkers of Alzheimer’s Disease, from Sociolinguistic, Patholinguis
 
 Advisors: [Dr. Jiahong Yuan (PI)](https://scholar.google.com/citations?user=jbbXJOkAAAAJ&hl=en)(Professor, USTC), Dr. Yizhe Wang (Postdoc, USTC), [Dr. Yiya Chen](https://www.ae-info.org/ae/Member/Chen_Yiya) (Professor, Leiden University, Member of Academia Europaea, who co-advised this project during her tenure as a Visiting Professor at USTC (Fall 2024))
 
-This foundational research project is dedicated to establishing the core methodology and creating a high-quality resource for studying language biomarkers of Alzheimer’s Disease in Mandarin speakers. In contrast to application-focused modeling, the primary goal here is to build a comprehensive speech corpus, analogous to the renowned English DementiaBank, that will serve as a bedrock for future clinical and computational research in the field.
+This foundational research is dedicated to establishing the core methodology and creating a high-quality speech corpus for studying language biomarkers of Alzheimer’s Disease in Mandarin speakers. The goal is to build a resource analogous to the English DementiaBank, serving as a bedrock for future clinical and computational research.
 
 [Collected Data System](https://www.ustcphonetics.cloud/main)
 
-- Co-developed a comprehensive suite of eight speech tasks grounded in patholinguistics. These tasks were specifically engineered to precisely elicit and capture the nuanced cognitive and linguistic variations characteristic of Mandarin speakers with cognitive decline. Built and deployed a robust, web-based data collection platform (ustcphonetics.cloud). This work established a standardized and scalable tool for acquiring high-quality, remote data, forming the technical backbone of this foundational study.
-
-- Investigated how sociolinguistic factors influence the perception of speech from individuals with Alzheimer's Disease.
-
+- Experimental Design: Co-developed a comprehensive suite of eight speech tasks grounded in patholinguistics to precisely elicit and capture the linguistic variations of Mandarin speakers with cognitive decline.
+- Infrastructure Development: Built and deployed a robust, web-based data collection platform, establishing a standardized tool for high-quality remote data acquisition.
+- Sociolinguistic Analysis: Investigated how sociolinguistic factors influence the perception of speech from individuals with Alzheimer's Disease.
 - Collaborated as part of a research team in the ICASSP 2025 Dementia Detection Challenge
 
 
