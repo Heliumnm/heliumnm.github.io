@@ -11,12 +11,19 @@ Language Biomarkers of Alzheimer’s Disease, from Sociolinguistic, Patholinguis
 
 Advisors: [Dr. Jiahong Yuan (PI)](https://scholar.google.com/citations?user=jbbXJOkAAAAJ&hl=en)(Professor, USTC), Dr. Yizhe Wang (Postdoc, USTC), [Dr. Yiya Chen](https://www.ae-info.org/ae/Member/Chen_Yiya) (Professor, Leiden University, Member of Academia Europaea, who co-advised this project during her tenure as a Visiting Professor at USTC (Fall 2024))
 
-
+This foundational research project is dedicated to establishing the core methodology and creating a high-quality resource for studying language biomarkers of Alzheimer’s Disease in Mandarin speakers. In contrast to application-focused modeling, the primary goal here is to build a comprehensive speech corpus, analogous to the renowned English DementiaBank, that will serve as a bedrock for future clinical and computational research in the field.
 
 [Collected Data System](https://www.ustcphonetics.cloud/main)
 
+- Co-developed a comprehensive suite of eight speech tasks grounded in patholinguistics. These tasks were specifically engineered to precisely elicit and capture the nuanced cognitive and linguistic variations characteristic of Mandarin speakers with cognitive decline. Built and deployed a robust, web-based data collection platform (ustcphonetics.cloud). This work established a standardized and scalable tool for acquiring high-quality, remote data, forming the technical backbone of this foundational study.
+
+- Investigated how sociolinguistic factors influence the perception of speech from individuals with Alzheimer's Disease.
+
+- Collaborated as part of a research team in the ICASSP 2025 Dementia Detection Challenge
+
 
 - **Liu He**, Yuanchao Li, Rui Feng, XinRan Han, Yin-Long Liu, Yuwei Yang, Zude Zhu and Jiahong Yuan. ***Exploring Gender Bias in Alzheimer's Disease Detection: Insights from Mandarin and Greek Speech Perception***. Submitted to the 2025 National Conference on Man-Machine Speech Communication (NCMMSC)  [arXiv](https://arxiv.org/abs/2507.12356) 
+
 
 - Yin-Long Liu, Yuanchao Li, Rui Feng, **Liu He**, Jia-Xin Chen, Yi-Ming Wang, Yu-Ang Chen, Yan-Han Peng, Jia-Hong Yuan, and Zhen-Hua Ling. ***Leveraging Cascaded Binary Classification and Multimodal Fusion for Dementia Detection through Spontaneous Speech***. Interspeech 2025
 
@@ -62,5 +69,11 @@ Advisors: [Dr. Yongdong Zhang](https://openreview.net/profile?id=~Yongdong_Zhang
 
 - One of the earliest RAG tool, focused on academic efficiency, 100k users at the time.
 
+-  Founding team member
 
 
+USTC360 Non-Profit Career Platform \hfill March 2022 – Present
+------
+- Co-founded a non-profit platform connecting over 2,000 USTC students and alumni, facilitating career development by bridging the gap between academia and industry.
+
+- Developed a Python web scraper to automatically aggregate job opportunities, providing a core technical solution for the community's information-sharing needs.
