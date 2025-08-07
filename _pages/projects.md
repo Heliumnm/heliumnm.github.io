@@ -71,7 +71,7 @@ Advisors: [Dr. Yongdong Zhang](https://openreview.net/profile?id=~Yongdong_Zhang
 -  Founding team member
 
 
-USTC360 Non-Profit Career Platform  March 2022 – Present
+[USTC360](https://ustc360.notion.site/e4f2c55693e841758f38b103bfdf2fff?pvs=4) Non-Profit Career Platform  March 2022 – Present
 ------
 - Co-founded a non-profit platform connecting over 2,000 USTC students and alumni, facilitating career development by bridging the gap between academia and industry.
 
