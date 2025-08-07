@@ -54,3 +54,13 @@ Advisors: [Dr. Yongdong Zhang](https://openreview.net/profile?id=~Yongdong_Zhang
 -  Analyzed 110,000 Weibo posts using LDA topic model
 -  Analyzed large-scale social media user behavioral data
 -  Composed research reports of over 30,000 words
+
+
+
+[ChatPaper](https://chatpaper.org/)  \hfill Mar. 2023 – Jul. 2023
+------
+
+- One of the earliest RAG tool, focused on academic efficiency, 100k users at the time.
+
+
+
