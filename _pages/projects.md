@@ -63,7 +63,7 @@ Advisors: [Dr. Yongdong Zhang](https://openreview.net/profile?id=~Yongdong_Zhang
 
 
 
-[ChatPaper](https://chatpaper.org/)  \hfill Mar. 2023 – Jul. 2023
+[ChatPaper](https://chatpaper.org/)   Mar. 2023 – Jul. 2023
 ------
 
 - One of the earliest RAG tool, focused on academic efficiency, 100k users at the time.
@@ -71,7 +71,7 @@ Advisors: [Dr. Yongdong Zhang](https://openreview.net/profile?id=~Yongdong_Zhang
 -  Founding team member
 
 
-USTC360 Non-Profit Career Platform \hfill March 2022 – Present
+USTC360 Non-Profit Career Platform  March 2022 – Present
 ------
 - Co-founded a non-profit platform connecting over 2,000 USTC students and alumni, facilitating career development by bridging the gap between academia and industry.
 
