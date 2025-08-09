@@ -11,8 +11,6 @@ I received my Master's degree from the [University of Science and Technology of 
 
 My primary research interests are in *Computational Social Science and Social NLP*. My work is inherently interdisciplinary, and I have had the privilege of collaborating with talented peers and mentors from diverse fields including **communication, linguistics, computer science, and clinical research**. I leverage these cross-disciplinary insights to tackle complex questions surrounding social phenomena and human behavior.
 
-`` After graduating, I have continued my work as a **Research Assistant** in Prof. Jiahong Yuan's lab at USTC. I am now actively seeking PhD opportunities for Fall 2026 in Computational Social Science and Social NLP. ``
-
 Currently, I am continuing my research with Prof. Jiahong Yuan at USTC while actively seeking PhD opportunities for Fall 2026 in Computational Social Science and Social NLP.
 
 Research Interests
