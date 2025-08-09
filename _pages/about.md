@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I received my Master's degree from the [University of Science and Technology of China](https://en.ustc.edu.cn)(USTC) in June 2025, advised by Prof. [Mengxiao Zhu](https://sites.google.com/site/mengxiaozhu/home?authuser=0)  and Prof. [Jiahong Yuan](https://scholar.google.com/citations?user=jbbXJOkAAAAJ&hl=en). I received my B.E. in Materials Science & Engineering from the [Harbin Institute of Technology](https://en.hit.edu.cn) (HIT). My recent experience about LLM includes a internship at [**Baidu's ERNIE Bot team**](https://research.baidu.com/Blog/index-view?id=183) My primary research interests are in *Computational Social Science and Social NLP*.  I leverage large-scale data analysis and artificial intelligence to understand complex social phenomena and human behavior. 
+I received my Master's degree from the [University of Science and Technology of China](https://en.ustc.edu.cn)(USTC) in June 2025, advised by Prof. [Mengxiao Zhu](https://sites.google.com/site/mengxiaozhu/home?authuser=0)  and Prof. [Jiahong Yuan](https://scholar.google.com/citations?user=jbbXJOkAAAAJ&hl=en). I received my B.E. in Materials Science & Engineering from the [Harbin Institute of Technology](https://en.hit.edu.cn) (HIT). I gained valuable industry experience as an intern at [**Baidu's ERNIE Bot team**](https://research.baidu.com/Blog/index-view?id=183), focusing on large language models.
+
+My primary research interests are in *Computational Social Science and Social NLP*. My work is inherently interdisciplinary, and I have had the privilege of collaborating with talented peers and mentors from diverse fields including **communication, linguistics, computer science, and clinical research**. I leverage these cross-disciplinary insights to tackle complex questions surrounding social phenomena and human behavior.
+
+`` After graduating, I have continued my work as a **Research Assistant** in Prof. Jiahong Yuan's lab at USTC. I am now actively seeking PhD opportunities for Fall 2026 in Computational Social Science and Social NLP. ``
 
 Currently, I am continuing my research with Prof. Jiahong Yuan at USTC while actively seeking PhD opportunities for Fall 2026 in Computational Social Science and Social NLP.
 
