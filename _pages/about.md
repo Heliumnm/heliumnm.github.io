@@ -13,7 +13,7 @@ My primary research interests are in *Computational Social Science, Social NLP,a
 
 Currently, I am continuing my research with Prof. Jiahong Yuan at USTC while actively seeking PhD opportunities for Fall 2026 in Computational Social Science.
 
-Research Interests
+Research Interests 
 ======
 
 **Computational Social Science**: I investigate how different communication modalities (text, audio, video) shape distinct public health narratives and sentiment patterns on social media, using the HPV vaccine as a key case study.
