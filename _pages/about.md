@@ -16,13 +16,13 @@ Currently, I am continuing my research with Prof. Jiahong Yuan at USTC while act
 Research Interests
 ======
 
-**Social Media Analysis for Public Health**: I analyze large-scale, multimodal data (text, audio, video) from social media to understand public discourse on critical health topics, such as the HPV vaccine.
-
-**Speech and Language for Clinical Informatics**: I develop and apply computational methods to analyze speech patterns, aiming to identify linguistic biomarkers for the early detection of neurodegenerative diseases like Alzheimer's. 
+**Computational Social Science**: I investigate how different communication modalities (text, audio, video) shape distinct public health narratives and sentiment patterns on social media, using the HPV vaccine as a key case study.
 
 
-**Explainable AI**
+**Speech and Language for Clinical Informatics**: I develop and apply computational methods to analyze speech patterns, aiming to identify linguistic biomarkers for the early detection of neurodegenerative diseases like Alzheimer's.
 
+
+**Explainable AI**: I apply Explainable AI (XAI) methods to uncover and address performance gaps in clinical diagnostic models, aiming to build more robust, fair, and trustworthy systems for healthcare.
 
 
 Selected Awards
