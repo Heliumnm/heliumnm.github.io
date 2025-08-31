@@ -21,11 +21,12 @@ This foundational research is dedicated to establishing the core methodology and
 - Collaborated as part of a research team in the ICASSP 2025 Dementia Detection Challenge
 
 
-- **Liu He**, Yuanchao Li, Rui Feng, XinRan Han, Yin-Long Liu, Yuwei Yang, Zude Zhu and Jiahong Yuan. ***Exploring Gender Bias in Alzheimer's Disease Detection: Insights from Mandarin and Greek Speech Perception***. Submitted to the 2025 National Conference on Man-Machine Speech Communication (NCMMSC)  [arXiv](https://arxiv.org/abs/2507.12356) 
 
+- Liu, Y.-L., Li, Y., Feng, R., **He, L.**, Chen, J.-X., Wang, Y.-M., Chen, Y.-A., Peng, Y.-H., Yuan, J.-H., Ling, Z.-H. (2025) **Leveraging Cascaded Binary Classification and Multimodal Fusion for Dementia Detection through Spontaneous Speech**. Proc. Interspeech 2025, 544-548. https://doi.org/10.21437/Interspeech.2025-1564
 
-- Yin-Long Liu, Yuanchao Li, Rui Feng, **Liu He**, Jia-Xin Chen, Yi-Ming Wang, Yu-Ang Chen, Yan-Han Peng, Jia-Hong Yuan, and Zhen-Hua Ling. ***Leveraging Cascaded Binary Classification and Multimodal Fusion for Dementia Detection through Spontaneous Speech***. Interspeech 2025
+- **Liu He**, Yuanchao Li, Rui Feng, XinRan Han, Yin-Long Liu, Yuwei Yang, Zude Zhu and Jiahong Yuan. ***Exploring Gender Bias in Alzheimer's Disease Detection: Insights from Mandarin and Greek Speech Perception***. The 2025 National Conference on Man-Machine Speech Communication (NCMMSC)  [arXiv](https://arxiv.org/abs/2507.12356)
 
+- **Liu He**, Rui Feng, XinRan Han, Yin-Long Liu, and Jiahong Yuan. 2025.**Beyond Mimicry: Auditing Human Bias to Build Fairer AI for Alzheimer’s Assessment**. In Companion Proceedings of the 27th International Conference on Multimodal Interaction (ICMI Companion ’25), October 13–17, 2025, Canberra, ACT, Australia. ACM, New York, NY, USA, 4 pages. https://doi.org/10.1145/3747327.3764903
 
 
 AI-Powered Cognitive Impairment Screening via Speech and Language Analysis. Applied Research & System Development
