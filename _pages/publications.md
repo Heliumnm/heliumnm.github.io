@@ -15,9 +15,11 @@ Here is my [Google Scholar Page](https://scholar.google.com/citations?hl=en&user
 
   This paper, which forms the core of my Master’s thesis supervised by Prof. Mengxiao Zhu, was accepted as an **Oral Presentation** (Lightning Talk) in the January 2025 submission cycle as a direct accept (conditional accept, no R&R). The review process was unusually rigorous, involving **five reviewers and one Senior Program Committee (SPC) member**, to whom I submitted a **49-page response addressing all concerns**. The SPC meta-review concluded that the paper was “a clear accept.” (**Jan 2025 direct-accept rate: 18/187 ≈ 9.8%.**)
 
-- Yin-Long Liu, Yuanchao Li, Rui Feng, **Liu He**, Jia-Xin Chen, Yi-Ming Wang, Yu-Ang Chen, Yan-Han Peng, Jia-Hong Yuan, and Zhen-Hua Ling. ***Leveraging Cascaded Binary Classification and Multimodal Fusion for Dementia Detection through Spontaneous Speech***. Interspeech 2025
 
-- **Liu He**, Yuanchao Li, Rui Feng, XinRan Han, Yin-Long Liu, Yuwei Yang, Zude Zhu and Jiahong Yuan. ***Exploring Gender Bias in Alzheimer's Disease Detection: Insights from Mandarin and Greek Speech Perception***. Submitted to the 2025 National Conference on Man-Machine Speech Communication (NCMMSC)  [arXiv](https://arxiv.org/abs/2507.12356) 
+- Liu, Y.-L., Li, Y., Feng, R., **He, L**., Chen, J.-X., Wang, Y.-M., Chen, Y.-A., Peng, Y.-H., Yuan, J.-H., Ling, Z.-H. (2025) Leveraging Cascaded Binary Classification and Multimodal Fusion for Dementia Detection through Spontaneous Speech. Proc. Interspeech 2025, 544-548. https://doi.org/10.21437/Interspeech.2025-1564
 
- 
+- **Liu He**, Yuanchao Li, Rui Feng, XinRan Han, Yin-Long Liu, Yuwei Yang, Zude Zhu and Jiahong Yuan. ***Exploring Gender Bias in Alzheimer's Disease Detection: Insights from Mandarin and Greek Speech Perception***. Submitted to the 2025 National Conference on Man-Machine Speech Communication (NCMMSC)  [arXiv](https://arxiv.org/abs/2507.12356)
+
+- **Liu He**, Rui Feng, XinRan Han, Yin-Long Liu, and Jiahong Yuan. 2025.Beyond Mimicry: Auditing Human Bias to Build Fairer AI for Alzheimer’s Assessment. In Companion Proceedings of the 27th International Conference on Multimodal Interaction (ICMI Companion ’25), October 13–17, 2025, Canberra, ACT, Australia. ACM, New York, NY, USA, 4 pages. https://doi.org/10.1145/3747327.3764903
+
  \* denotes equal contribution
