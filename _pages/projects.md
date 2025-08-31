@@ -49,7 +49,6 @@ This was a large-scale research project that performed a cross-modality analysis
 
   This paper, which forms the core of my Master’s thesis supervised by Prof. Mengxiao Zhu, was accepted as an **Oral Presentation** (Lightning Talk) in the January 2025 submission cycle as a direct accept (conditional accept, no R&R). The review process was unusually rigorous, involving **five reviewers and one Senior Program Committee (SPC) member**, to whom I submitted a **49-page response addressing all concerns**. The SPC meta-review concluded that the paper was “a clear accept.” (**Jan 2025 direct-accept rate: 18/187 ≈ 9.8%.**)
 
-
  \* denotes equal contribution
 
 
