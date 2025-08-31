@@ -45,9 +45,10 @@ Advisors: [Dr. Mengxiao Zhu](https://sites.google.com/site/mengxiaozhu/)(Profess
 
 This was a large-scale research project that performed a cross-modality analysis of HPV vaccine discourse on social media. The study involved collecting and analyzing over 1.5TB of data, including texts, audios, and videos from major platforms like Weibo, Douyin, and Bilibili, spanning a decade from 2010 to 2023. The goal was to understand how the same vaccine was discussed differently across various media formats.
 
-- Mengxiao Zhu\*, **Liu He**\*, Han Zhao, Ruoxiao Su, Licheng Zhang, and Bo Hu. ***Same Vaccine, Different Voices: A Cross-Modality Analysis of HPV Vaccine Discourse on Social Media***. Proceedings of the International AAAI Conference on Web and Social Media 19.1 (2025): 2317-2333.  [Link](https://ojs.aaai.org/index.php/ICWSM/article/view/35936) [Homepage](https://heliumnm.github.io/same-vaccine-diff-voices/) [Poster](https://drive.google.com/file/d/1Xbokf3xGSPVwJTJttb0Vgr4Gx8r-_lH-/view?usp=share_link) [Slides](https://drive.google.com/file/d/1dqdZOOJwa60oTDkgdgjo1lWyzO-xthDQ/view?usp=share_link)
+- Zhu, M.\*, **He, L**\*., Zhao, H., Su, R., Zhang, L., & Hu, B. (2025). **Same Vaccine, Different Voices: A Cross-Modality Analysis of HPV Vaccine Discourse on Social Media**. Proceedings of the International AAAI Conference on Web and Social Media, 19(1), 2317-2333. https://doi.org/10.1609/icwsm.v19i1.35936 [Link](https://ojs.aaai.org/index.php/ICWSM/article/view/35936) [Homepage](https://heliumnm.github.io/same-vaccine-diff-voices/) [Poster](https://drive.google.com/file/d/1Xbokf3xGSPVwJTJttb0Vgr4Gx8r-_lH-/view?usp=share_link) [Slides](https://drive.google.com/file/d/1dqdZOOJwa60oTDkgdgjo1lWyzO-xthDQ/view?usp=share_link)
 
-  Accepted as an **Oral Presentation** in the Jan 2025 submission cycle (**8% acceptance rate**) and praised by the Senior Program Committee (SPC) for a "clear accept" after a highly rigorous review.
+  This paper, which forms the core of my Master’s thesis supervised by Prof. Mengxiao Zhu, was accepted as an **Oral Presentation** (Lightning Talk) in the January 2025 submission cycle as a direct accept (conditional accept, no R&R). The review process was unusually rigorous, involving **five reviewers and one Senior Program Committee (SPC) member**, to whom I submitted a **49-page response addressing all concerns**. The SPC meta-review concluded that the paper was “a clear accept.” (**Jan 2025 direct-accept rate: 18/187 ≈ 9.8%.**)
+
 
  \* denotes equal contribution
 
