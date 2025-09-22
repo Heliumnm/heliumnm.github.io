@@ -22,3 +22,11 @@ Here is my [Google Scholar Page](https://scholar.google.com/citations?hl=en&user
 
 - **Liu He**, Rui Feng, XinRan Han, Yin-Long Liu, and Jiahong Yuan. 2025.**Beyond Mimicry: Auditing Human Bias to Build Fairer AI for Alzheimer’s Assessment**. In Companion Proceedings of the 27th International Conference on Multimodal Interaction (ICMI Companion ’25), October 13–17, 2025, Canberra, ACT, Australia. ACM, New York, NY, USA, 4 pages. https://doi.org/10.1145/3747327.3764903
 
+
+
+
+**Preprints & Under Review**
+
+- **He, L.**, Li, Y., Liu, Y.-L., Feng, R., Wang, Y., Chen, J., Wang, Y., & Yuan, J. (2025).  
+  *Disentangling Acoustic Cues in Alzheimer’s Pathology and Perception: The Roles of Language and Gender.*  
+  Submitted to ICASSP 2026 (under review).
