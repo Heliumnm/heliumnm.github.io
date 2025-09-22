@@ -27,6 +27,4 @@ Here is my [Google Scholar Page](https://scholar.google.com/citations?hl=en&user
 
 **Preprints & Under Review**
 
-- **He, L.**, Li, Y., Liu, Y.-L., Feng, R., Wang, Y., Chen, J., Wang, Y., & Yuan, J. (2025).  
-  *Disentangling Acoustic Cues in Alzheimer’s Pathology and Perception: The Roles of Language and Gender.*  
-  Submitted to ICASSP 2026 (under review).
+- **He, L.**, Li, Y., Liu, Y.-L., Feng, R., Wang, Y., Chen, J., Wang, Y., & Yuan, J. (2025).  **Disentangling Acoustic Cues in Alzheimer’s Pathology and Perception: The Roles of Language and Gender.**  Submitted to ICASSP 2026 (under review).
