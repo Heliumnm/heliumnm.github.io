@@ -36,6 +36,6 @@ Excellent Academic Scholarship, Graduate School, USTC 2023
 
 Professional Activities
 ======
-Conference Reviewer, ICWSM
+Conference PC Member/Reviewer, ICWSM26
 
 Volunteer, International Communication Association (ICA) Regional Hub at Hefei, China
