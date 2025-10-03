@@ -9,4 +9,4 @@ I go by **Helium** because it sounds like my Chinese name **何浏 (Hé Liú)**.
 
 Outside of research, I enjoy **playing tennis** 🎾 and **swimming** 🏊. I’ve been doing both regularly for the past three years.
 
-I really enjoy **indie music**, and lately my favorite album is *Illinois*(https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To?si=QsC6BkMIQuuhtRnXtYzjZw) by **Sufjan Stevens**.
+I really enjoy **indie music**, and lately my favorite album is [*Illinois*](https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To?si=QsC6BkMIQuuhtRnXtYzjZw) by **Sufjan Stevens**.
