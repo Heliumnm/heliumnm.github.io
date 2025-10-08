@@ -64,7 +64,7 @@ Advisors: [Dr. Yongdong Zhang](https://openreview.net/profile?id=~Yongdong_Zhang
 
 
 
-[ChatPaper](https://chatpaper.org/) (RAG-based Academic Tool)  Mar. 2023 – Jul. 2023
+[ChatPaper](https://academic.chatpaper.top) (RAG-based Academic Tool)  Mar. 2023 – Jul. 2023
 ------
 Founding Team Member | 100,000+ users
 
