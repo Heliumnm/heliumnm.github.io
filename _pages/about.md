@@ -15,8 +15,10 @@ My research leverages cross-disciplinary insights from Computational Social Scie
 
 Currently, I am continuing my research with Prof. Jiahong Yuan at USTC while actively seeking PhD opportunities for Fall 2026 in Computational Social Science.
 
+
+
 Research Interests 
-======
+------
 
 **Computational Social Science**: I investigate how different communication modalities (text, audio, video) shape distinct public health narratives and sentiment patterns on social media, using the HPV vaccine as a key case study.
 
@@ -27,15 +29,20 @@ Research Interests
 **Explainable AI**: I apply Explainable AI (XAI) methods to uncover and address performance gaps in clinical diagnostic models, aiming to build more robust, fair, and trustworthy systems for healthcare.
 
 
+
+
 Selected Awards
-======
+------
 
 National Third Prize, The 5th Communication Data Mining Competition 2023
 
 Excellent Academic Scholarship, Graduate School, USTC 2023
 
+
+
+
 Professional Activities
-======
-Conference PC Member/Reviewer, ICWSM26
+------
+Program Committee Member/Reviewer, ICWSM26
 
 Volunteer, International Communication Association (ICA) Regional Hub at Hefei, China
