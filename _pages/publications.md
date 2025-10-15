@@ -11,6 +11,8 @@ Here is my [Google Scholar Page](https://scholar.google.com/citations?hl=en&user
 
 2025
 ------
+
+
 - Zhu, M.\*, **He, L**\*., Zhao, H., Su, R., Zhang, L., & Hu, B. (2025). **Same Vaccine, Different Voices: A Cross-Modality Analysis of HPV Vaccine Discourse on Social Media**. Proceedings of the International AAAI Conference on Web and Social Media, 19(1), 2317-2333. https://doi.org/10.1609/icwsm.v19i1.35936 [Link](https://ojs.aaai.org/index.php/ICWSM/article/view/35936) [Homepage](https://heliumnm.github.io/same-vaccine-diff-voices/) [Poster](https://drive.google.com/file/d/1Xbokf3xGSPVwJTJttb0Vgr4Gx8r-_lH-/view?usp=share_link) [Slides](https://drive.google.com/file/d/1dqdZOOJwa60oTDkgdgjo1lWyzO-xthDQ/view?usp=share_link)
 
   This paper, which forms the core of my Master’s thesis supervised by Prof. Mengxiao Zhu, was accepted as an **Oral Presentation** (Lightning Talk) in the January 2025 submission cycle as a direct accept (conditional accept, no R&R). The review process was unusually rigorous, involving **five reviewers and one Senior Program Committee (SPC) member**, to whom I submitted a **49-page response addressing all concerns**. The SPC meta-review concluded that the paper was “a clear accept.” (**Jan 2025 direct-accept rate: 18/187 ≈ 9.8%.**)
@@ -26,5 +28,6 @@ Here is my [Google Scholar Page](https://scholar.google.com/citations?hl=en&user
 
 
 **Preprints & Under Review**
+------
 
 - **He, L.**, Li, Y., Liu, Y.-L., Feng, R., Wang, Y., Chen, J., Wang, Y., & Yuan, J. (2025).  **Disentangling Acoustic Cues in Alzheimer’s Pathology and Perception: The Roles of Language and Gender.**  Submitted to ICASSP 2026 (under review).
