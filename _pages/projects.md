@@ -19,6 +19,7 @@ This foundational research is dedicated to establishing the core methodology and
 - Infrastructure Development: Built and deployed a robust, web-based data collection platform, establishing a standardized tool for high-quality remote data acquisition.
 - Sociolinguistic Analysis: Investigated how sociolinguistic factors influence the perception of speech from individuals with Alzheimer's Disease.
 - Collaborated as part of a research team in the ICASSP 2025 Dementia Detection Challenge
+- Explainable AI for Cross-Lingual AD Biomarker Analysis
 
 
 
