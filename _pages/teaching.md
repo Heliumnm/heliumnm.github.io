@@ -16,7 +16,7 @@ Beyond my own research, I am passionate about teaching and mentorship. I find de
 
 **Co-founder & Peer Mentor, USTC360 (2022–Present)**
 * Co-founded this volunteer-run, non-profit platform and personally maintained its core operations (including weekly JD posting) for over two years, growing the community to 2,000+ members.
-* Offered informal 1-on-1 guidance to many students, helping them discover their underlying passions and navigate the pivot from traditional science (e.g., Physics, Materials) into AI and related internship opportunities.
+* Offered informal 1-on-1 guidance to many students, helping them discover their underlying passions and navigate the pivot from traditional science (e.g., Physics, Chemistry) into AI and related internship opportunities.
 
   
 
