@@ -21,6 +21,7 @@ Beyond my own research, I am passionate about teaching and mentorship. I find de
   
 
 **A Note on Peer Mentorship**
-* **The Context:** I believe strongly in sharing my own cross-disciplinary experience (Engineering-to-CSS) with students facing a similar fork in the road.
-* **The Action:** I met [**Buyu Deng**](https://buyudeng.github.io/) (SGY '23) on the tennis court during his first week at USTC. I encouraged him to explore his core passion for *modeling* beyond his traditional physics track. Drawing on my own research, I introduced him to the concepts of XAI and Generative Models, and helped him identify the Geophysics major as a perfect fit. I then helped him connect with a computational research group far earlier than is typical.
+* **The Context:**  I believe deeply in sharing my own cross-disciplinary journey from Engineering to Computational Social Science with students who are standing at a similar crossroads.
+* **The Action:** I met [**Buyu Deng**](https://buyudeng.github.io/) (SGY '23) on the tennis court during his first week at USTC. I encouraged him to explore his passion for modeling beyond his traditional physics track. Drawing on my own research, I introduced him to computational and AI-driven approaches for scientific question, helping him see how data-driven methods could deepen our understanding of natural systems. Together, we identified the Geophysics major as a strong fit for his interests, and I connected him with a computational research group much earlier than is typical, which he then contacted and joined on his own initiative.
+
 * **The Outcome:** He made the switch and has absolutely thrived. I've been thrilled to see him not only become a top-ranked undergraduate researcher, but also earn many Scholarships and now aim for top-tier PhD programs and summer research.
