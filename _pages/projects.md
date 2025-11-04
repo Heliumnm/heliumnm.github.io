@@ -70,6 +70,35 @@ Advisors: [Dr. Yongdong Zhang](https://openreview.net/profile?id=~Yongdong_Zhang
 
 
 
+
+Industry & Technical Experience
+------
+Data Science Intern, ERNIE Bot, Baidu | Summer 2023
+------
+Joined Baidu's ERNIE Bot team during the early wave of China's LLM development, working on model evaluation, fine-tuning, and dialogue ptimization for ERNIE 3.5 and 4.0.
+
+**Model Evaluation & Improvement**
+- Developed comprehensive evaluation frameworks based on real user feedback
+- Created benchmark datasets and assessment criteria for measuring model quality
+- Conducted both automated metrics and human evaluations
+- Fine-tuned models using supervised learning to improve performance
+
+**AI Agent Development**  
+- Built domain-specific AI agents using Few-Shot Supervised Fine-Tuning (SFT)
+- Covered diverse scenarios: character roleplay, gaming assistants, workplace productivity tools, and educational tutors
+- Contributed to productionizing AI agents for real-world deployment
+
+**Dialogue System Engineering**
+- Designed query prediction and recommendation systems for multi-turn conversations
+- Implemented token compression techniques for efficient processing
+- Integrated user behavior analysis with co-occurrence mechanisms
+- Improved user engagement through context-aware query suggestions
+
+This experience deepened my understanding of production AI systems and directly informs my current research applying LLMs to social science and clinical applications.
+
+
+
+
 [ChatPaper](https://academic.chatpaper.top) (RAG-based Academic Tool)  Mar. 2023 – Jul. 2023
 ------
 Founding Team Member | 100,000+ users
