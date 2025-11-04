@@ -6,7 +6,7 @@ author_profile: true
 ---
   
 
-Language Biomarkers of Alzheimer’s Disease, from Sociolinguistic, Patholinguistic, and Artificial Intelligence Perspectives. National Social Science Fund Project (23YYA012)
+Language Biomarkers of Alzheimer’s Disease, from Sociolinguistic, Patholinguistic, and Artificial Intelligence Perspectives. National Social Science Fund Project (23AYY012)
 ------
 
 Advisors: [Dr. Jiahong Yuan (PI)](https://openreview.net/profile?id=~Jiahong_Yuan1)(Professor, USTC), [Dr. Yizhe Wang](https://www.linkedin.com/in/yizhe-wang-96593a113/?originalSubdomain=fr) (Postdoc, USTC), [Dr. Yuanchao Li](https://yc-li20.github.io) (PHD, The University of Edinburgh), [Dr. Yiya Chen](https://www.ae-info.org/ae/Member/Chen_Yiya) (Professor, Leiden University, Member of Academia Europaea, who co-advised this project during her tenure as a Visiting Professor at USTC (Fall 2024))
