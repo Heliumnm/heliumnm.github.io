@@ -73,7 +73,8 @@ Advisors: [Dr. Yongdong Zhang](https://openreview.net/profile?id=~Yongdong_Zhang
 
 Industry & Technical Experience
 ------
-Data Science Intern, ERNIE Bot, Baidu | Summer 2023
+
+Data Science Intern, ERNIE Bot, Baidu | Autumn 2023
 ------
 Joined Baidu's ERNIE Bot team during the early wave of China's LLM development, working on model evaluation, fine-tuning, and dialogue optimization for ERNIE 3.5 and 4.0.
 
