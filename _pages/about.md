@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I received my Master's degree from the [University of Science and Technology of China](https://en.ustc.edu.cn)(USTC) in June 2025, advised by Prof. [Mengxiao Zhu](https://sites.google.com/site/mengxiaozhu/home?authuser=0) (Computational Social Science) and Prof. [Jiahong Yuan](https://openreview.net/profile?id=%7EJiahong_Yuan1) (Linguistics). I received my B.E. in Materials Science & Engineering from the [Harbin Institute of Technology](https://en.hit.edu.cn) (HIT). I gained valuable industry experience as an intern at [Baidu's ERNIE Bot team](https://research.baidu.com/Blog/index-view?id=183), focusing on large language models.
+I received my Master's degree from the [University of Science and Technology of China](https://en.ustc.edu.cn)(USTC) in June 2025, advised by Prof. [Mengxiao Zhu](https://sites.google.com/site/mengxiaozhu/home?authuser=0) (Computational Social Science) and Prof. [Jiahong Yuan](https://openreview.net/profile?id=%7EJiahong_Yuan1) (Linguistics). I hold my B.E. in Materials Science & Engineering from the [Harbin Institute of Technology](https://en.hit.edu.cn) (HIT). I gained valuable industry experience as an intern at [Baidu's ERNIE Bot team](https://research.baidu.com/Blog/index-view?id=183), focusing on large language models.
 
 My research leverages cross-disciplinary insights from Computational Social Science, Speech & Language Processing, and Explainable AI to tackle complex questions surrounding social phenomena and human behavior.
 
