@@ -13,7 +13,7 @@ My research leverages cross-disciplinary insights from Computational Social Scie
 
 
 
-Currently, I am continuing my research with Prof. Jiahong Yuan at USTC while actively seeking PhD opportunities for Fall 2026 in Computational Social Science.
+Currently, I am continuing my research with Prof. Jiahong Yuan at USTC while actively seeking PhD opportunities for Fall 2026 in Computational Social Science, speech and language processing, and related areas..
 
 
 
