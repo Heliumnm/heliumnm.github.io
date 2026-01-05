@@ -13,7 +13,7 @@ Advisors: [Dr. Jiahong Yuan (PI)](https://openreview.net/profile?id=~Jiahong_Yua
 
 This foundational research is dedicated to establishing the core methodology and creating a high-quality speech corpus for studying language biomarkers of Alzheimer’s Disease in Mandarin speakers. The goal is to build a resource analogous to the English DementiaBank, serving as a bedrock for future clinical and computational research.
 
-[Collected Data System](https://www.ustcphonetics.cloud/main)
+[Collected Data System](https://ustcphonetics.org)
 
 - Experimental Design: Co-developed a comprehensive suite of eight speech tasks grounded in patholinguistics to precisely elicit and capture the linguistic variations of Mandarin speakers with cognitive decline.
 - Infrastructure Development: Built and deployed a robust, web-based data collection platform, establishing a standardized tool for high-quality remote data acquisition.
