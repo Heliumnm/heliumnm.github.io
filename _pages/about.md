@@ -7,15 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I received my Master's degree from the [University of Science and Technology of China](https://en.ustc.edu.cn)(USTC) in June 2025, advised by Prof. [Mengxiao Zhu](https://sites.google.com/site/mengxiaozhu/home?authuser=0) (Computational Social Science) and Prof. [Jiahong Yuan](https://openreview.net/profile?id=%7EJiahong_Yuan1) (Linguistics/CS). I hold a B.E. in Materials Science & Engineering from the [Harbin Institute of Technology](https://en.hit.edu.cn) (HIT). I gained valuable industry experience as an intern on [Baidu's ERNIE Bot team](https://research.baidu.com/Blog/index-view?id=183), focusing on large language models.
+My name is **Liu He (何浏)**.
+
+Following the completion of my master's degree, I am currently taking a research-focused gap year while continuing my research with Prof. [Jiahong Yuan](https://openreview.net/profile?id=%7EJiahong_Yuan1) at the [University of Science and Technology of China](https://en.ustc.edu.cn) (USTC). I have also been collaborating closely with Dr. [Yuanchao Li](https://yc-li20.github.io/) at the University of Cambridge.
+
+Prior to this, I received my Master's degree from USTC in June 2025, advised by Prof. Jiahong Yuan (Linguistics/CS) and Prof. [Mengxiao Zhu](https://sites.google.com/site/mengxiaozhu/home?authuser=0) (Computational Social Science). I hold a B.E. in Materials Science & Engineering from the [Harbin Institute of Technology](https://en.hit.edu.cn) (HIT). I gained valuable industry experience as an intern on [Baidu's ERNIE Bot team](https://research.baidu.com/Blog/index-view?id=183), focusing on large language models.
 
 My research leverages cross-disciplinary insights from Computational Social Science, Speech & Language Processing, and Explainable AI to tackle complex questions surrounding social phenomena and human behavior.
-
-
-
-Currently, I am continuing my research with Prof. Jiahong Yuan at USTC while actively seeking PhD opportunities for Fall 2026 in Computational Social Science, speech and language processing, and related areas..
-
-
 
 Research Interests 
 ------
