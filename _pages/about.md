@@ -9,7 +9,7 @@ redirect_from:
 
 My name is **Liu He (何浏)**.
 
-Following the completion of my master's degree, I am currently taking a research-focused gap year while continuing my research with Prof. [Jiahong Yuan](https://openreview.net/profile?id=%7EJiahong_Yuan1) at the [University of Science and Technology of China](https://en.ustc.edu.cn) (USTC). I have also been collaborating closely with Dr. [Yuanchao Li](https://yc-li20.github.io/) at the University of Cambridge.
+Following the completion of my master's degree, I am currently taking a research-focused gap year while continuing my research with Prof. [Jiahong Yuan](https://openreview.net/profile?id=%7EJiahong_Yuan1) at the [University of Science and Technology of China](https://en.ustc.edu.cn) (USTC). I have also been collaborating closely with Dr. [Yuanchao Li](https://scholar.google.com/citations?user=WYSrzUsAAAAJ&hl=en) at the University of Cambridge. I am currently seeking Ph.D. opportunities in speech science, speech and language processing, and computational sociolinguistics.
 
 Prior to this, I received my Master's degree from USTC in June 2025, advised by Prof. [Jiahong Yuan](https://openreview.net/profile?id=%7EJiahong_Yuan1) (Linguistics/CS) and Prof. [Mengxiao Zhu](https://sites.google.com/site/mengxiaozhu/home?authuser=0) (Computational Social Science). I hold a B.E. in Materials Science & Engineering from the [Harbin Institute of Technology](https://en.hit.edu.cn) (HIT). I gained valuable industry experience as an intern on [Baidu's ERNIE Bot team](https://research.baidu.com/Blog/index-view?id=183), focusing on large language models.
 
